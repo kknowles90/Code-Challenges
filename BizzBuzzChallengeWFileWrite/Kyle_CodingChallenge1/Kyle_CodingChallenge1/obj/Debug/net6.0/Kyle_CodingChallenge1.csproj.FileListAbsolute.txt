@@ -1,0 +1,15 @@
+C:\Users\K1Knowles\source\repos\Kyle_CodingChallenge1\Kyle_CodingChallenge1\bin\Debug\net6.0\Kyle_CodingChallenge1.exe
+C:\Users\K1Knowles\source\repos\Kyle_CodingChallenge1\Kyle_CodingChallenge1\bin\Debug\net6.0\Kyle_CodingChallenge1.deps.json
+C:\Users\K1Knowles\source\repos\Kyle_CodingChallenge1\Kyle_CodingChallenge1\bin\Debug\net6.0\Kyle_CodingChallenge1.runtimeconfig.json
+C:\Users\K1Knowles\source\repos\Kyle_CodingChallenge1\Kyle_CodingChallenge1\bin\Debug\net6.0\Kyle_CodingChallenge1.dll
+C:\Users\K1Knowles\source\repos\Kyle_CodingChallenge1\Kyle_CodingChallenge1\bin\Debug\net6.0\Kyle_CodingChallenge1.pdb
+C:\Users\K1Knowles\source\repos\Kyle_CodingChallenge1\Kyle_CodingChallenge1\obj\Debug\net6.0\Kyle_CodingChallenge1.csproj.AssemblyReference.cache
+C:\Users\K1Knowles\source\repos\Kyle_CodingChallenge1\Kyle_CodingChallenge1\obj\Debug\net6.0\Kyle_CodingChallenge1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K1Knowles\source\repos\Kyle_CodingChallenge1\Kyle_CodingChallenge1\obj\Debug\net6.0\Kyle_CodingChallenge1.AssemblyInfoInputs.cache
+C:\Users\K1Knowles\source\repos\Kyle_CodingChallenge1\Kyle_CodingChallenge1\obj\Debug\net6.0\Kyle_CodingChallenge1.AssemblyInfo.cs
+C:\Users\K1Knowles\source\repos\Kyle_CodingChallenge1\Kyle_CodingChallenge1\obj\Debug\net6.0\Kyle_CodingChallenge1.csproj.CoreCompileInputs.cache
+C:\Users\K1Knowles\source\repos\Kyle_CodingChallenge1\Kyle_CodingChallenge1\obj\Debug\net6.0\Kyle_CodingChallenge1.dll
+C:\Users\K1Knowles\source\repos\Kyle_CodingChallenge1\Kyle_CodingChallenge1\obj\Debug\net6.0\refint\Kyle_CodingChallenge1.dll
+C:\Users\K1Knowles\source\repos\Kyle_CodingChallenge1\Kyle_CodingChallenge1\obj\Debug\net6.0\Kyle_CodingChallenge1.pdb
+C:\Users\K1Knowles\source\repos\Kyle_CodingChallenge1\Kyle_CodingChallenge1\obj\Debug\net6.0\Kyle_CodingChallenge1.genruntimeconfig.cache
+C:\Users\K1Knowles\source\repos\Kyle_CodingChallenge1\Kyle_CodingChallenge1\obj\Debug\net6.0\ref\Kyle_CodingChallenge1.dll
